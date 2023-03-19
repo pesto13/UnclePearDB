@@ -1,0 +1,36 @@
+
+persona()
+
+festa(location, costo, città, n_persone, costo_affitto)
+
+Magazzino(bevanda(FK), 
+
+Transazione(PK, data, costo_per_litro, quantità)
+
+bevanda(gradazione, nome, Transazione(FK), litri, grandezza_bottiglia)
+
+oggetto(nome, tipologia, costo, giacenza, qt_comprata)
+
+drink(proporzioni, nome, costo, gradazione)
+
+shot(vedi drink)ew21
+
+
+
+
+quanto ci costa fare tot drink
+quali drink fare
+quali robe comprare, ad esempio se voglio fare x drink e mi manca un ingrediente ci avvisa.
+(se openbar) ci dice quanto in media una persona può consumare prima di andare in perdita.
+
+quanto costa la festa
+entrate/uscite della festa
+
+quanta roba in magazzino
+
+
+200 gin lemon
+chi inserisci i dati nel db
+
+
+
